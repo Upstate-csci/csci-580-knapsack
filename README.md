@@ -7,7 +7,7 @@ each file consists of:
 - weight limit
 - for each item: weight value
 
-#Knapsack Problem Description
+# Knapsack Problem Description
 
 Write a program which attempts to find the best solution to the knapsack problem using a genetic algorithm.
 
