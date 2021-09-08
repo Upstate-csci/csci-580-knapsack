@@ -11,7 +11,7 @@ each file consists of:
 
 Write a program which attempts to find the best solution to the knapsack problem using a genetic algorithm.
 
-I will provide several test cases in CodePost for this assignment. Details will be forth coming. 
+I have provided several test cases in GitHub for this assignment. Also gave you createdata.py so you can create some of your own test files.  
 
 This requires that i know which language(s) my students will use. I will ask in class. 
 
